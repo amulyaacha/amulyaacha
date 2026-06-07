@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Amulya 👋
 
-<!--
-**amulyaacha/amulyaacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incoming Electrical Engineering student at the University of Illinois Urbana-Champaign interested in embedded systems, robotics, hardware design, and software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Experience with VEX V5 Robotics
+- 💡 Interested in embedded systems and hardware design
+- 🌱 Currently learning advanced engineering and software development concepts
+
+## Skills
+
+### Programming
+- Java
+- Python
+- HTML
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
