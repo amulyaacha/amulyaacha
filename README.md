@@ -15,4 +15,3 @@ I'm an incoming Electrical Engineering student at the University of Illinois Urb
 - Python
 - HTML
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
