@@ -6,9 +6,7 @@ I'm an incoming Electrical Engineering student at the University of Illinois Urb
 
 - 🤖 Experience with VEX V5 Robotics
 - 💡 Interested in embedded systems and hardware design
-- 🌱 Currently learning advanced engineering and software development concepts
-
-## Skills
+- 🎾 Enjoy playing tennis
 
 ### Programming
 - Java
