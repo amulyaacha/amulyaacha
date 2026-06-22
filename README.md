@@ -20,14 +20,6 @@
 \ (_ o _) / `-'`-'     / (_{;}_)|   | \ (_ o _) /|  |  \    /  \      /     \ (_ o _) / 
  '.(_,_).'    `._____.'  '(_,_) '---'  '.(_,_).' ''-'   `'-'    `-..-'       '.(_,_).'  
                                                                                         
- 
-I'm an incoming Electrical Engineering student at the University of Illinois Urbana-Champaign interested in embedded systems, robotics, hardware design, and software development.
-
-
-
- 
-I'm an incoming Electrical Engineering student at the University of Illinois Urbana-Champaign interested in embedded systems, robotics, hardware design, and software development.
- 
 I'm an incoming Electrical Engineering student at the University of Illinois Urbana-Champaign interested in embedded systems, robotics, hardware design, and software development.
 
 ## About Me
